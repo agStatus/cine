@@ -7,7 +7,7 @@
 	</head>
 	<body class="row">
 		<div class="col l12">
-			<div class="col l4">
+			<div class="col l4 menu">
 				<ul>
 					<li><a href="#">Painel</a></li>
 					<li><a href="#">Filmes</a></li>
@@ -17,7 +17,10 @@
 
 
 
-			<div class="col l8">Direita</div>
+			<div class="col l8 main">
+				<h2>Filmes Cadastrados</h2>
+				...
+			</div>
 		</div>
 	</body>
 </html>
